@@ -1,4 +1,7 @@
-# Nig-s-WaterMark-ESX-
+#  Nig's Watermark
+
+Dette er trods "nogle mennesker"'s overbevisning IKKE client-dumpet. 
+
 Watermark, viser spiller antal samt dit ESX ID.
 
 
