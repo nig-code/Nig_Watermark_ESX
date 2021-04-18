@@ -1,10 +1,9 @@
 
-RegisterNetEvent('getPlayers:done')
-AddEventHandler('getPlayers:done', function(playerCount)
-    print(playerCount)
-    SendNUIMessage({action = "setPlayerId", id = GetPlayerServerId(PlayerId())})
-    SendNUIMessage({action = "setPlayerCount", count = playerCount})
-end)
+#RegisterNetEvent('getPlayers:done')
+#AddEventHandler('getPlayers:done', function(playerCount)
+#    #debug - print(playerCount)
+#
+#end)
 
 
 Citizen.CreateThread(function()
