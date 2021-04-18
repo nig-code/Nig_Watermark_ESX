@@ -17,3 +17,16 @@ Havde faktisk skrevet en "server.lua", men indså at jeg bare kunne request akti
 Scriptet tager 0.0ms af serverens "shit".
 
 Virker også standalone, da jeg ikke følte en nød til at adde sharedobject, så også til jer der laver mærkeligt kedeligt rp uden vrp / esx
+
+
+
+
+
+
+
+
+
+
+
+
+inspi fra brazilrp's dynamic time display
