@@ -1,9 +1,9 @@
 
-#RegisterNetEvent('getPlayers:done')
-#AddEventHandler('getPlayers:done', function(playerCount)
-#    #debug - print(playerCount)
-#
-#end)
+-RegisterNetEvent('getPlayers:done')
+-AddEventHandler('getPlayers:done', function(playerCount)
+-    -debug - print(playerCount)
+-
+-end)
 
 
 Citizen.CreateThread(function()
