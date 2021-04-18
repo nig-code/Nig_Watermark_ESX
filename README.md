@@ -6,3 +6,6 @@ Watermark, viser spiller antal samt dit ESX ID.
 
 
 Lavet til ESX (vRP version kommer)
+
+
+(Husk SharedObject change, hvis du benytter dig af renamede getSharedObject, (for advancerede nørder, anticheat, etc.)
