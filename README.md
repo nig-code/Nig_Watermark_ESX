@@ -29,4 +29,4 @@ Virker også standalone, da jeg ikke følte en nød til at adde sharedobject, s�
 
 
 
-inspi fra brazilrp's dynamic time display
+inspi og fork fra brazilrp's dynamic time display
